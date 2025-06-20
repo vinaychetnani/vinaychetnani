@@ -27,6 +27,7 @@
 I am a Senior Machine Learning Engineer with seven years of experience in designing and deploying scalable ML solutions for production. My expertise spans the full machine learning lifecycle—from ideation, data acquisition, and feature engineering to modeling, evaluation, and seamless deployment. I specialize in NLP, Generative AI, recommender systems, ads ranking, and knowledge graphs, backed by a strong foundation in deep learning and Python development.
 
 Throughout my career, I have excelled at translating complex business challenges into impactful machine learning products, leading cross-functional teams to deliver robust, production-grade models. I am adept at building efficient, scalable architectures and driving innovation by leveraging the latest advancements in AI. My approach is rooted in collaboration, stakeholder alignment, and a relentless commitment to continuous learning and delivering high-impact results.
+
 ---
 
 ### 🎉 Fun Facts & Interests
