@@ -44,4 +44,3 @@ Throughout my career, I have excelled at translating complex business challenges
 
 ---
 
-> _Mixing professionalism with a dash of friendly playfulness—let's build something impactful and have some fun along the way!_
